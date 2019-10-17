@@ -50,7 +50,7 @@ h1{
   float: left;
 }
 nav{
-  padding-top: 20px;
+  padding-top: 10px;
   float:right;
 }
 nav ul{
@@ -66,15 +66,15 @@ display: inline;
 
 .mbody{
   background: linear-gradient(rgba(10, 0.9, 3, 0.5) , rgba(10, 4, 0.4, 0.7)) , url(../images/apple.png);
-  height: 400px;
+  height: 450px;
   background-position: center center;
   color: white;
   text-align: center;
-  padding-top: 70px;
+  padding-top: 50px;
 }
 .mbody h1{
     text-transform: capitalize;
-    font-size: 2.9em;
+    font-size: 2.5em;
     font-weight: bolder;
   }
   .mbody p{
