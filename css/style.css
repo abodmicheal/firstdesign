@@ -65,7 +65,7 @@ display: inline;
 /*mini body*/
 
 .mbody{
-  background: linear-gradient(rgba(10, 0.9, 3, 0.5) , rgba(10, 4, 0.4, 0.7)) , url(../images/apple.jpg);
+  background: linear-gradient(rgba(10, 0.9, 3, 0.5) , rgba(10, 4, 0.4, 0.7)) , url(../images/apple.png);
   height: 400px;
   background-position: center center;
   color: white;
