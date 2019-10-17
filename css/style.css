@@ -50,6 +50,7 @@ h1{
   float: left;
 }
 nav{
+  transform: translateX(-10px);
   padding-top: 30px;
   float:right;
 }
@@ -248,7 +249,7 @@ footer{
 
    .colo input , .colo textarea {
 
-     width: 300px;
+     width: 150px;
      padding: 5px;
    }
 
