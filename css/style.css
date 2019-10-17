@@ -39,8 +39,8 @@ header{
 }
  .highlight{
   color: coral;
-  word-spacing: 100em;
-  padding: 5px;
+  word-spacing: 90em;
+  padding: 2px;
 }
 
 h1{
@@ -50,7 +50,7 @@ h1{
   float: left;
 }
 nav{
-  padding-top: 25px;
+  padding-top: 20px;
   float:right;
 }
 nav ul{
